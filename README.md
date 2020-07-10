@@ -13,7 +13,7 @@ I’m also a big advocate for building open and inclusive communities which led 
 - 😄 My Pronouns: She/Her   
 - 💬 Ask me about: Vue, Jamstack 
 - 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-- ⚡ Fun fact: I'm 6"1 and I haven't played basketball ever in my life! 😄
+- ⚡ Fun fact: I'm 6ft1 and I haven't played basketball ever in my life! 😄
 
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
