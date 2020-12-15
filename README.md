@@ -8,7 +8,8 @@
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and also an advocate for building open-source projects. 
 
-I’m also a big advocate for building open and inclusive communities which led me to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. I'm a co-organizer of the Concatenate Conference, a Media Developer Expert at Cloudinary, and an Auth0 Ambassador. When I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
+I'm passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+
 
 - 😄 My Pronouns: She/Her   
 - 💬 Ask me about: Vue, Jamstack 
