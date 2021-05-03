@@ -16,9 +16,6 @@ I love sharing my knowledge with others, and I do that through content creation 
 - 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
 - ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
 
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
-
-![Metrics](https://metrics.lecoq.io/lauragift21?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
 <!--
 **lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
