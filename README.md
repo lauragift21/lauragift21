@@ -4,6 +4,7 @@
   <a href="https://www.giftegwuenu.dev">Website</a> •
   <a href="https://twitter.com/lauragift_">Twitter</a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21&" alt="Gift"/></p>
 
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
